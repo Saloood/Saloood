@@ -1,0 +1,4 @@
+- | Hello monkeys, im saloood
+- | Currently working on various projects [LUA(u) / python]
+- | Currently learning python
+- | And yea thats it, now get the hell outta here <3
